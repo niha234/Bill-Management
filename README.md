@@ -1,2 +1,22 @@
 # Bill-Management
-I Developed a Bill Management System using Python and Tkinter. The application includes a GUI that displays a menu, takes user inputs for different items, and calculates the total bill. Features include entry fields for items, a reset button to clear inputs, and a button to display the total bill dynamically. This project improved my skills in GUI design, event handling, and dynamic widget management in Python.
+This is a simple Bill Management System built using Python and Tkinter for the graphical user interface (GUI).
+
+## Features
+
+- Displays a menu with item prices.
+- Allows users to enter quantities for each item.
+- Calculates and displays the total bill dynamically.
+- Includes a reset button to clear input fields.
+
+## Requirements
+
+- Python 3.x
+- Tkinter (usually included with Python installations)
+
+## Usage
+
+1. Clone the repository.
+2. Run the `b.py` file using Python.
+3. Enter quantities for each item and click "Total" to calculate the bill.
+4. Use the "Reset" button to clear all input fields.
+
