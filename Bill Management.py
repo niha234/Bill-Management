@@ -139,3 +139,4 @@ btn_total = Button(f1, bd=5, fg="black", bg="lightblue", font=("ariel", 16, 'bol
 btn_total.grid(row=8, column=1)
 
 root.mainloop()
+
